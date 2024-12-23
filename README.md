@@ -32,9 +32,9 @@ I am a passionate developer with a strong focus on **cybersecurity**, dedicated 
 
 ---
 
-## 🛠️ What I'm Working On  
-- 🔒 **[Security Project Name]:** A cutting-edge tool for automating vulnerability detection and reporting.  
-- 🌐 **[Open Source Contribution]:** Enhancing system monitoring frameworks for open-source communities.  
+## 🛠️ What I'm Working On ATM
+- 🔒 **infraninja:** A cutting-edge tool for automating vulnerability detection and reporting.  
+- 🌐 **SMTP discovery script && Sysmonitorytool:** Enhancing system monitoring frameworks for open-source communities.  
 
 ---
 

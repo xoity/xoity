@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/xoity"><img src="https://api.daily.dev/devcards/v2/laUMJUenAfmTtMkBMhl7f.png?r=ksp&type=wide" width="652" alt="mohamad abukhader's Dev Card"/></a>
+
 # 👋 Hello, World!  
 
 🎯 **Code, Security, and Innovation – My Passion, My Purpose**  
@@ -116,9 +118,9 @@ Starting with **basic ethical hacking challenges**, I’ve explored a wide varie
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoity&show_icons=true&locale=en&layout=compact" alt="xoity" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xoity&show_icons=true&locale=en" alt="xoity" /></p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xoity&show_icons=true&locale=en&layout=compact" alt="xoity" />
+  <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoity&" alt="xoity" /></p>  
 

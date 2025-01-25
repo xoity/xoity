@@ -76,12 +76,6 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 ### 🔒 **Infraninja**  
 A cutting-edge platform designed to **automate vulnerability detection and reporting** across multiple server environments. Its modular design allows easy integration with security tools like **Suricata**, **Fail2Ban**, and **Lynis**, providing real-time insights and comprehensive reports.  
 
-### 🌐 **SMTP Discovery Script**  
-A Python-based tool for detecting misconfigured SMTP servers and helping organizations secure email communication.  
-
-### ⚙️ **Sysmonitortool**  
-A lightweight monitoring tool for **real-time system performance analysis**, with an emphasis on **security event detection**.  
-
 ---
 
 ## 🌐 Cybersecurity Journey  

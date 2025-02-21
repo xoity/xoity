@@ -113,6 +113,4 @@ Starting with **basic ethical hacking challenges**, I’ve explored a wide varie
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xoity&show_icons=true&locale=en&layout=compact" alt="xoity" />
   <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoity&" alt="xoity" /></p>  
-
 ---

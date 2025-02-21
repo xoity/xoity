@@ -52,8 +52,7 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 
 ### **Cybersecurity Developer – Intern**  
 - Collaborated with teams to implement **firewall hardening** and **intrusion detection systems (IDS)**.  
-- Developed and deployed security automation scripts, improving infrastructure resilience by 35%.  
-- Contributed to company-wide awareness programs, educating employees on **phishing** and **social engineering**.  
+- Developed and deployed security automation scripts, improving infrastructure resilience 
 
 ---
 
@@ -66,9 +65,7 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 
 ### Current Learning  
 - **Red Team Operations**: Deep-diving into attack strategies to better defend against threats.  
-- **Python for Offensive Security**: Expanding my toolkit for penetration testing.  
-- **Advanced DevOps**: Exploring Ansible and Terraform to further streamline infrastructure.  
-
+- **Python for Offensive Security**: Expanding my toolkit for penetration testing. 
 ---
 
 ## 🔥 Featured Projects  

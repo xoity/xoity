@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/xoity"><img src="https://api.daily.dev/devcards/v2/laUMJUenAfmTtMkBMhl7f.png?r=ksp&type=wide" width="652" alt="mohamad abukhader's Dev Card"/></a>
-
 # 👋 Hello, World!  
 
 🎯 **Code, Security, and Innovation – My Passion, My Purpose**  

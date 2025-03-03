@@ -27,11 +27,6 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 
 ## 🌟 My Superpowers  
 
-### 🛡️ **Cybersecurity**  
-- Hardening server infrastructure and securing networks against potential threats.  
-- Leveraging **SIEM tools** to identify, track, and mitigate anomalies in real time.  
-- Designing tools for **automated vulnerability assessments** and detailed reporting.  
-
 ### ⚙️ **DevOps and Automation**  
 - Automating repetitive tasks to streamline workflows and boost productivity.  
 - Integrating CI/CD pipelines to accelerate software delivery without compromising quality.  
@@ -85,13 +80,6 @@ Starting with **basic ethical hacking challenges**, I’ve explored a wide varie
 ### **Bachelor’s in Computer Science**  
 - Specialized in **Information Security** and **System Design**.  
 - Completed projects on **network defense simulations** and **secure application development**.  
-
----
-
-## 🌱 Fun Facts About Me  
-- I’m a coffee addict who believes the best code is written late at night with a good cup of espresso ☕.  
-- Outside of work, you’ll find me tinkering with **Raspberry Pi** projects or playing **CTF challenges**.  
-- I love teaching others the importance of **cyber hygiene** and empowering them to think like hackers!  
 
 ---
 

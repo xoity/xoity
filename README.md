@@ -40,7 +40,7 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 - Exploiting vulnerabilities to gain insights and build better defenses.  
 
 ---
-
+ 
 ## 💼 Professional Experience  
 
 ### **Cybersecurity Developer – Intern**  

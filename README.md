@@ -22,7 +22,7 @@ When I’m not diving into code, I’m sharpening my skills through **ethical ha
 - **Forensics**: Autopsy, Volatility  
 - **Version Control**: Git, GitHub  
 - **Infrastructure Management**: Vagrant, PyInfra  
-
+ 
 ---
 
 ## 🌟 My Superpowers  

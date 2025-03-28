@@ -5,7 +5,7 @@ Welcome to my digital playground! I'm a **developer**, **security enthusiast**, 
 
 When I’m not diving into code, I’m sharpening my skills through **ethical hacking challenges**, exploring the latest in **cyber defense technologies**, or mentoring others to embrace **cybersecurity best practices**. For me, technology isn’t just a profession – it’s a **lifelong adventure**.  
  
----
+--- 
 
 ## 🚀 Tech Arsenal  
 

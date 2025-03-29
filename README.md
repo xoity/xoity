@@ -2,7 +2,7 @@
 
 🎯 **Code, Security, and Innovation – My Passion, My Purpose**  
 Welcome to my digital playground! I'm a **developer**, **security enthusiast**, and **problem-solver** driven by the thrill of creating **secure, innovative systems**. From writing scripts to **fortify servers** to developing tools that **protect against vulnerabilities**, I bring a blend of creativity and precision to every project. My mission is simple: empower businesses and individuals to stay a step ahead in the ever-changing world of **cyber threats**.  
-
+ 
 When I’m not diving into code, I’m sharpening my skills through **ethical hacking challenges**, exploring the latest in **cyber defense technologies**, or mentoring others to embrace **cybersecurity best practices**. For me, technology isn’t just a profession – it’s a **lifelong adventure**.  
 
 ---

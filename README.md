@@ -99,7 +99,7 @@ Starting with **basic ethical hacking challenges**, I’ve explored a wide varie
 
 ## 📫 Let’s Connect  
 
-| [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/xoity) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abu-khader-9248011ab) | [![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:mohammad,abukhader@hotmail.com) |
+| [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/xoity) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abu-khader) | [![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:mohammad.abukhader@hotmail.com) |
 
 ---
 

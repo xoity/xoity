@@ -23,10 +23,9 @@
 ---
 
 ### 📈 GitHub Stats & Socials
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xoity&show_icons=true&theme=tokyonight&count_private=true" alt="xoity's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoity&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xoity&show_icons=true&theme=tokyonight&count_private=true" alt="xoity's Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xoity&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
 </div>
 
 <br/>

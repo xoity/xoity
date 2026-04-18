@@ -16,7 +16,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **DevSecOps** | `Docker` `Kubernetes` `Pyinfra` `GitHub Actions` `Ansible`  |
-| **Languages** | `Python` `Bash` `TypeScript` `Java` `C++` |
+| **Languages** | `Python` `Bash` `TypeScript` `Java` `C++` `Go`|
 | **Security** | `Burp Suite` `Metasploit` `Nmap` `Splunk` `BloodHound` |
 | **Infrastructure** | `Arch Linux` `Ubuntu` `PostgreSQL` `Redis` `Vagrant` |
 
